@@ -1,0 +1,26 @@
+
+.carList {
+    background-color: #eeeeee;
+    padding: 10px;
+}
+
+.Car {
+    position: relative;
+    font-size: 14px;
+    background-color: #ffda21;
+    margin: 5px;
+    padding: 2px;
+}
+
+.Model {
+    cursor: pointer;
+}
+
+.Tooltip {
+    position: absolute;
+    left: -120px;
+    width: 120px;
+    color: white;
+    background-color: black;
+    z-index: 999;
+}
